@@ -1,5 +1,5 @@
 # Global Quality of Life Rankings 2021
-This project examined the factors that affect global quality of life rankings for the year 2021. Advanced analytical techniques, such as geospatial analysis, supervised machine learning, and unsupervised machine learning, were used to generate insights that were later exported for visualization in a dashboard report.
+This project examined the factors that affected global quality of life rankings for the year 2021. Advanced analytical techniques, such as geospatial analysis, supervised machine learning, and unsupervised machine learning, were used to generate insights that were later exported for visualization in a dashboard report.
 
 ## Overview
 The primary goal of the project was to understand how seven key metrics, Stability, Rights, Health, Safety, Costs, Climate, and Popularity, influenced a total quality of life score and the subsequent rankings by country. The variables were explored first using correlation matrixes to discover which had the most meaningful
