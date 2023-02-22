@@ -26,7 +26,7 @@ The data for this project was open-source and aggregated from several different 
 
 [Quality of life in a country comparison](https://www.kaggle.com/datasets/shivamsingh0194/quality-of-life-in-a-country-comparison) (data shown is from 2021)
 
-The time series analysis in the scripts section of this repository was not a part of this report. The data for this, however, can be found here:
+The time series analysis in the 'Scripts' section of this repository was not a part of this report. The data for this, however, can be found here:
 
 [Consumer Price Index-Australia](https://data.nasdaq.com/data/RATEINF/CPI_AUS-consumer-price-index-australia)
 
