@@ -11,7 +11,7 @@ The following questions guided the analysis:
 1. Which indicators have the highest correlation with quality of life rankings?
 2. What insights about quality of life rankings can be revealed by grouping data points using algorithms?
 3. What can be learned from analyzing correlations with geospatial data?
-4. What can be learned from clusters in geospatial data?
+4. What can be learned from analyzing clusters in geospatial data?
 
 
 ## Analysis Tools
